@@ -1,0 +1,6 @@
+body{
+    font-family: 'Urbanist', sans-serif;
+    background: rgb(0,255,244);
+    text-align: center;
+background: linear-gradient(90deg, rgba(0,255,244,1) 0%, rgba(14,216,237,1) 50%, rgba(23,48,221,1) 100%);
+}
